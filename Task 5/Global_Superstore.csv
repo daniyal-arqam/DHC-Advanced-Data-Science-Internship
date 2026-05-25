@@ -1,0 +1,501 @@
+Region,Category,Sub-Category,Sales,Profit,Customer Name
+LATAM,Furniture,Phones,2021.62,322.06,Carlos Ruiz
+Africa,Technology,Copiers,2409.78,1179.72,Li Wei
+APAC,Furniture,Storage,3144.98,1300.05,Emma Watson
+Africa,Technology,Binders,4370.91,206.84,Amina Ali
+Africa,Office Supplies,Paper,4920.74,-26.26,Emma Watson
+Europe,Office Supplies,Phones,3846.0,1061.05,Amina Ali
+APAC,Technology,Binders,2100.48,49.61,Carlos Ruiz
+APAC,Technology,Copiers,2118.36,1145.23,Jane Smith
+APAC,Technology,Storage,3693.16,347.48,Carlos Ruiz
+Africa,Office Supplies,Copiers,1209.11,835.1,Carlos Ruiz
+LATAM,Technology,Paper,570.16,-308.93,John Doe
+APAC,Office Supplies,Binders,1786.02,747.72,Li Wei
+Africa,Furniture,Binders,1450.45,403.54,Amina Ali
+Europe,Office Supplies,Binders,1495.61,673.22,Jane Smith
+LATAM,Office Supplies,Paper,1183.37,-163.97,Amina Ali
+Europe,Furniture,Paper,229.62,973.75,Emma Watson
+LATAM,Office Supplies,Copiers,109.01,1225.59,Amina Ali
+Africa,Technology,Chairs,4938.86,-66.52,Emma Watson
+North America,Technology,Copiers,2150.31,-308.57,Li Wei
+LATAM,Office Supplies,Storage,1933.95,-452.72,Emma Watson
+Europe,Technology,Phones,3404.64,783.94,Amina Ali
+Africa,Office Supplies,Binders,1106.9,714.19,Amina Ali
+LATAM,Technology,Chairs,4750.81,593.39,Emma Watson
+North America,Technology,Phones,3936.0,-36.11,Carlos Ruiz
+North America,Office Supplies,Chairs,465.27,281.81,Li Wei
+APAC,Technology,Copiers,2099.55,688.95,John Doe
+APAC,Office Supplies,Paper,4398.01,493.53,Jane Smith
+Europe,Technology,Binders,4724.77,1475.57,Amina Ali
+LATAM,Technology,Copiers,2347.66,-227.12,Jane Smith
+LATAM,Furniture,Phones,3074.79,890.29,John Doe
+APAC,Furniture,Phones,851.83,308.64,Jane Smith
+LATAM,Office Supplies,Phones,4956.02,356.4,John Doe
+LATAM,Furniture,Phones,1173.73,935.2,Emma Watson
+North America,Office Supplies,Phones,4714.8,884.87,Carlos Ruiz
+APAC,Furniture,Chairs,3255.24,1482.51,Amina Ali
+Africa,Technology,Copiers,3046.53,-243.21,John Doe
+APAC,Office Supplies,Binders,2573.19,-291.78,Jane Smith
+Africa,Office Supplies,Paper,1168.74,948.68,Amina Ali
+North America,Technology,Paper,899.11,656.77,Carlos Ruiz
+Europe,Office Supplies,Copiers,1118.02,48.32,Emma Watson
+LATAM,Office Supplies,Copiers,948.46,-341.16,Amina Ali
+North America,Furniture,Paper,3902.33,-328.68,John Doe
+LATAM,Office Supplies,Paper,1763.62,1288.38,Carlos Ruiz
+Europe,Technology,Chairs,308.06,-116.27,Jane Smith
+Europe,Furniture,Storage,4846.13,146.74,Carlos Ruiz
+North America,Furniture,Binders,4421.25,-46.69,Carlos Ruiz
+Europe,Technology,Phones,4640.21,209.99,Li Wei
+Africa,Technology,Storage,4974.64,-361.15,Carlos Ruiz
+Europe,Furniture,Copiers,886.0,538.12,Carlos Ruiz
+LATAM,Office Supplies,Paper,1993.29,-364.77,Amina Ali
+LATAM,Furniture,Storage,3796.03,1100.71,Jane Smith
+LATAM,Technology,Binders,3486.18,-32.58,Amina Ali
+LATAM,Furniture,Copiers,786.4,580.02,Amina Ali
+Africa,Technology,Phones,4082.85,1260.16,John Doe
+APAC,Furniture,Phones,1137.71,801.75,Amina Ali
+North America,Office Supplies,Binders,1134.61,565.92,Li Wei
+LATAM,Furniture,Binders,2694.13,148.67,Li Wei
+Europe,Furniture,Paper,2972.84,166.0,John Doe
+LATAM,Technology,Phones,2908.83,838.97,Emma Watson
+Europe,Technology,Copiers,475.6,1488.28,Jane Smith
+Europe,Technology,Storage,4389.76,823.68,Jane Smith
+LATAM,Furniture,Copiers,1342.69,615.57,Amina Ali
+Africa,Office Supplies,Chairs,664.98,961.3,Amina Ali
+Europe,Technology,Chairs,4445.97,430.41,Emma Watson
+Europe,Technology,Binders,4779.14,-379.72,Amina Ali
+LATAM,Furniture,Paper,4313.4,624.59,Jane Smith
+Europe,Technology,Chairs,4051.39,1415.25,Carlos Ruiz
+Europe,Office Supplies,Phones,3283.11,-149.39,Li Wei
+LATAM,Office Supplies,Copiers,2763.27,880.01,Carlos Ruiz
+LATAM,Technology,Copiers,453.19,-98.13,Carlos Ruiz
+North America,Technology,Binders,2054.1,571.66,Jane Smith
+Africa,Furniture,Storage,1875.99,-306.65,Carlos Ruiz
+Africa,Office Supplies,Binders,1313.57,400.74,Emma Watson
+Europe,Office Supplies,Storage,3622.63,1012.33,John Doe
+Africa,Technology,Binders,2489.46,195.14,Amina Ali
+Europe,Furniture,Binders,423.61,829.82,John Doe
+North America,Office Supplies,Binders,1116.51,1090.9,Li Wei
+LATAM,Office Supplies,Storage,3422.63,1354.36,Amina Ali
+LATAM,Furniture,Storage,399.13,-30.72,Carlos Ruiz
+LATAM,Furniture,Binders,4259.01,298.63,Li Wei
+Africa,Office Supplies,Chairs,2485.83,-195.17,Amina Ali
+North America,Office Supplies,Paper,2413.32,1484.97,Emma Watson
+Africa,Furniture,Paper,2970.19,1354.0,Emma Watson
+Africa,Office Supplies,Paper,4126.91,579.91,Emma Watson
+North America,Technology,Storage,1752.09,1184.07,Emma Watson
+North America,Technology,Storage,3396.52,541.92,Carlos Ruiz
+North America,Furniture,Chairs,2837.35,747.17,John Doe
+North America,Furniture,Paper,1349.8,-321.75,Amina Ali
+LATAM,Furniture,Paper,4395.58,1010.54,Carlos Ruiz
+APAC,Technology,Binders,3991.18,-244.57,Emma Watson
+APAC,Office Supplies,Storage,3299.09,1152.14,John Doe
+North America,Technology,Paper,4255.9,1064.06,Li Wei
+APAC,Office Supplies,Copiers,4339.13,917.49,Li Wei
+APAC,Technology,Chairs,3547.65,-427.68,Li Wei
+North America,Office Supplies,Copiers,4188.33,106.26,Emma Watson
+APAC,Technology,Copiers,3493.41,26.23,Li Wei
+Africa,Furniture,Chairs,3407.1,220.27,Jane Smith
+Europe,Technology,Copiers,3100.68,-324.71,Amina Ali
+Europe,Office Supplies,Paper,3768.53,1373.92,Amina Ali
+North America,Technology,Storage,809.85,607.6,Emma Watson
+LATAM,Technology,Chairs,4406.74,111.05,Jane Smith
+North America,Technology,Binders,4361.78,293.96,Carlos Ruiz
+LATAM,Furniture,Copiers,165.65,394.41,Carlos Ruiz
+Europe,Technology,Chairs,4132.57,701.19,Li Wei
+North America,Furniture,Phones,661.77,531.36,John Doe
+Africa,Furniture,Phones,1688.89,1338.78,Carlos Ruiz
+APAC,Technology,Storage,3722.67,493.93,John Doe
+LATAM,Technology,Paper,820.58,1484.32,Amina Ali
+APAC,Technology,Storage,4093.48,1202.85,John Doe
+APAC,Office Supplies,Storage,4164.03,-82.98,Amina Ali
+North America,Technology,Storage,2547.19,1361.19,Jane Smith
+APAC,Furniture,Storage,51.8,-267.27,Jane Smith
+Africa,Technology,Binders,1449.45,1134.9,Emma Watson
+APAC,Office Supplies,Binders,3092.3,261.25,Emma Watson
+North America,Technology,Chairs,4906.31,1255.95,Li Wei
+Africa,Office Supplies,Phones,3166.43,1236.11,Carlos Ruiz
+Europe,Office Supplies,Storage,1313.82,1111.85,Li Wei
+APAC,Technology,Chairs,3177.35,1080.06,Amina Ali
+North America,Furniture,Phones,2709.13,109.36,Li Wei
+Europe,Office Supplies,Copiers,3903.63,-338.16,John Doe
+Europe,Technology,Paper,552.76,305.96,Amina Ali
+LATAM,Technology,Binders,3809.92,-152.95,Emma Watson
+Africa,Furniture,Copiers,2715.51,889.9,Jane Smith
+APAC,Office Supplies,Phones,4815.7,192.2,Emma Watson
+North America,Office Supplies,Copiers,1722.52,1451.22,Carlos Ruiz
+LATAM,Technology,Paper,3170.46,781.94,Amina Ali
+Africa,Technology,Phones,4661.5,1144.96,Amina Ali
+LATAM,Furniture,Copiers,530.5,-234.95,John Doe
+Africa,Furniture,Binders,4687.4,1224.03,Carlos Ruiz
+Africa,Office Supplies,Binders,3445.67,1345.51,Jane Smith
+APAC,Office Supplies,Chairs,357.83,474.12,Amina Ali
+Africa,Technology,Copiers,1518.8,712.51,Amina Ali
+LATAM,Office Supplies,Storage,3546.7,1029.62,John Doe
+Africa,Furniture,Copiers,355.41,-150.32,Li Wei
+APAC,Furniture,Phones,2919.21,505.13,Jane Smith
+APAC,Technology,Phones,1742.5,297.33,Emma Watson
+LATAM,Furniture,Copiers,3112.16,-207.25,Carlos Ruiz
+Europe,Furniture,Paper,247.8,235.07,Amina Ali
+Europe,Furniture,Binders,4360.25,-363.66,Amina Ali
+Africa,Furniture,Phones,4867.98,-448.38,Emma Watson
+North America,Technology,Binders,4845.01,-229.67,Jane Smith
+Africa,Technology,Phones,3753.27,1426.23,Li Wei
+LATAM,Office Supplies,Chairs,667.83,599.06,Amina Ali
+LATAM,Furniture,Storage,3796.15,1431.64,Jane Smith
+LATAM,Office Supplies,Phones,142.44,365.0,Emma Watson
+LATAM,Technology,Binders,130.18,123.63,John Doe
+LATAM,Technology,Chairs,1631.58,512.28,Li Wei
+APAC,Technology,Phones,2453.44,379.02,Carlos Ruiz
+Europe,Technology,Paper,3856.63,-288.67,Amina Ali
+LATAM,Technology,Storage,3422.81,781.65,Jane Smith
+North America,Technology,Phones,2240.6,-67.92,John Doe
+North America,Technology,Chairs,1382.66,739.18,Carlos Ruiz
+North America,Furniture,Paper,4985.68,800.4,Jane Smith
+North America,Office Supplies,Copiers,2142.38,-195.95,Jane Smith
+APAC,Technology,Chairs,2267.91,-377.3,Carlos Ruiz
+North America,Furniture,Chairs,834.85,1061.52,John Doe
+LATAM,Furniture,Paper,3978.15,419.6,Emma Watson
+Africa,Office Supplies,Chairs,3474.54,-383.67,John Doe
+North America,Technology,Paper,1119.43,1489.73,Li Wei
+APAC,Office Supplies,Phones,430.26,-384.44,Amina Ali
+APAC,Technology,Paper,3408.89,890.07,Carlos Ruiz
+North America,Furniture,Paper,3279.47,1467.36,Emma Watson
+Africa,Furniture,Storage,1380.83,-21.64,Carlos Ruiz
+North America,Furniture,Paper,4755.3,-215.5,Carlos Ruiz
+APAC,Furniture,Paper,772.27,-257.23,John Doe
+Europe,Office Supplies,Copiers,2173.03,106.55,Amina Ali
+LATAM,Technology,Phones,4719.21,-297.91,Li Wei
+APAC,Technology,Storage,2110.24,884.32,Jane Smith
+North America,Office Supplies,Copiers,3199.86,-375.42,Jane Smith
+LATAM,Technology,Binders,2000.02,518.84,Carlos Ruiz
+North America,Furniture,Phones,1385.59,1493.39,Amina Ali
+North America,Technology,Phones,4920.21,1127.94,Emma Watson
+Europe,Furniture,Binders,2058.48,730.44,John Doe
+LATAM,Office Supplies,Paper,4472.61,112.51,Amina Ali
+LATAM,Technology,Copiers,1165.17,747.79,Amina Ali
+Europe,Office Supplies,Chairs,1081.26,554.08,John Doe
+APAC,Technology,Storage,175.05,352.17,Carlos Ruiz
+North America,Furniture,Chairs,3265.3,-238.58,Amina Ali
+Africa,Office Supplies,Binders,1855.26,1273.21,Jane Smith
+North America,Technology,Phones,4324.5,399.57,John Doe
+North America,Furniture,Phones,2376.59,-110.75,Emma Watson
+APAC,Office Supplies,Storage,4841.6,235.52,Li Wei
+North America,Office Supplies,Phones,943.92,328.26,Carlos Ruiz
+Europe,Technology,Phones,4345.74,1155.08,John Doe
+Europe,Technology,Storage,3887.45,967.23,Li Wei
+LATAM,Technology,Copiers,3859.19,1038.61,Li Wei
+Africa,Furniture,Copiers,4227.02,-477.94,Emma Watson
+North America,Technology,Storage,3809.9,332.31,Amina Ali
+North America,Office Supplies,Binders,3138.58,462.69,Emma Watson
+APAC,Office Supplies,Phones,673.6,-461.62,Amina Ali
+Europe,Technology,Phones,181.98,19.63,Amina Ali
+Africa,Technology,Binders,4605.82,1020.58,John Doe
+LATAM,Office Supplies,Copiers,3090.92,-225.78,John Doe
+Europe,Furniture,Paper,3986.76,570.62,Carlos Ruiz
+LATAM,Technology,Paper,2417.98,-69.6,Amina Ali
+APAC,Technology,Paper,604.19,-475.76,Li Wei
+APAC,Office Supplies,Copiers,643.43,-17.6,Jane Smith
+North America,Technology,Copiers,3434.12,1451.75,Carlos Ruiz
+Africa,Furniture,Binders,2162.92,1103.07,John Doe
+LATAM,Office Supplies,Phones,1018.61,1419.15,Emma Watson
+Europe,Technology,Binders,2468.14,475.71,Carlos Ruiz
+APAC,Office Supplies,Binders,339.76,-280.53,Carlos Ruiz
+North America,Technology,Copiers,2918.22,595.92,Carlos Ruiz
+North America,Technology,Paper,1359.59,408.75,Carlos Ruiz
+LATAM,Technology,Chairs,3991.84,1188.71,Jane Smith
+APAC,Furniture,Phones,1565.6,-303.83,Emma Watson
+Africa,Furniture,Copiers,2287.0,476.48,Emma Watson
+APAC,Office Supplies,Paper,77.87,-199.9,Emma Watson
+LATAM,Technology,Chairs,380.79,149.35,Amina Ali
+LATAM,Technology,Chairs,1974.62,974.71,Li Wei
+APAC,Furniture,Copiers,2410.1,452.04,Emma Watson
+LATAM,Technology,Storage,3008.1,251.78,Carlos Ruiz
+APAC,Furniture,Phones,1472.48,288.95,Carlos Ruiz
+Europe,Technology,Chairs,3481.01,418.89,Emma Watson
+APAC,Office Supplies,Copiers,4303.41,1070.03,Emma Watson
+APAC,Technology,Copiers,3903.66,1284.17,Carlos Ruiz
+LATAM,Technology,Paper,217.3,1410.67,Amina Ali
+LATAM,Furniture,Storage,2412.92,1073.81,John Doe
+North America,Technology,Phones,542.55,130.81,John Doe
+North America,Technology,Binders,1225.38,876.27,Emma Watson
+Europe,Furniture,Paper,4933.58,375.21,Jane Smith
+North America,Office Supplies,Chairs,729.63,9.34,Emma Watson
+APAC,Office Supplies,Chairs,2504.46,1181.74,Emma Watson
+LATAM,Furniture,Paper,3098.42,-423.15,John Doe
+North America,Furniture,Copiers,3518.28,1303.52,Carlos Ruiz
+North America,Furniture,Chairs,2807.05,422.95,Emma Watson
+Europe,Furniture,Storage,68.66,774.4,Carlos Ruiz
+Europe,Furniture,Phones,1645.78,818.71,Carlos Ruiz
+APAC,Office Supplies,Storage,2598.2,1290.24,Jane Smith
+LATAM,Office Supplies,Chairs,457.58,773.34,Carlos Ruiz
+Europe,Furniture,Binders,1766.12,727.87,John Doe
+North America,Technology,Phones,185.35,-366.7,Amina Ali
+LATAM,Furniture,Phones,411.32,536.82,Amina Ali
+LATAM,Technology,Paper,1996.68,-199.66,Li Wei
+North America,Furniture,Paper,680.92,974.87,Emma Watson
+Europe,Furniture,Binders,2846.35,524.44,John Doe
+North America,Office Supplies,Copiers,3453.54,860.46,Carlos Ruiz
+LATAM,Technology,Phones,4006.92,-416.65,Amina Ali
+Africa,Technology,Binders,1016.75,-330.42,John Doe
+Africa,Office Supplies,Paper,854.06,932.65,Amina Ali
+APAC,Office Supplies,Paper,540.75,-355.83,Carlos Ruiz
+North America,Office Supplies,Phones,3189.42,-357.49,Amina Ali
+North America,Office Supplies,Storage,3538.25,-475.78,Emma Watson
+APAC,Technology,Chairs,177.3,1413.0,Emma Watson
+APAC,Technology,Paper,4682.34,975.02,Li Wei
+APAC,Furniture,Copiers,278.82,206.5,Li Wei
+LATAM,Furniture,Copiers,2715.66,93.07,Amina Ali
+North America,Office Supplies,Paper,3551.12,199.41,John Doe
+LATAM,Office Supplies,Storage,4357.43,1049.31,Emma Watson
+APAC,Office Supplies,Storage,3576.15,822.74,John Doe
+North America,Furniture,Binders,4012.61,-129.61,John Doe
+LATAM,Furniture,Copiers,1710.46,-151.78,Amina Ali
+LATAM,Furniture,Binders,4077.83,-303.21,John Doe
+APAC,Furniture,Copiers,418.97,820.61,Emma Watson
+North America,Furniture,Chairs,4476.19,1028.75,Carlos Ruiz
+APAC,Furniture,Chairs,2747.01,30.09,Li Wei
+North America,Furniture,Phones,4090.14,-458.11,Carlos Ruiz
+Africa,Office Supplies,Binders,2272.55,-335.66,John Doe
+Europe,Office Supplies,Paper,3225.02,1435.72,Carlos Ruiz
+Europe,Office Supplies,Binders,2641.49,90.89,Emma Watson
+Europe,Office Supplies,Paper,3663.32,1038.45,Emma Watson
+APAC,Furniture,Storage,426.52,749.33,John Doe
+Africa,Technology,Binders,320.55,263.88,Amina Ali
+North America,Furniture,Storage,1250.57,-88.63,Carlos Ruiz
+LATAM,Technology,Chairs,814.53,-257.23,Amina Ali
+North America,Office Supplies,Chairs,4361.48,730.03,Amina Ali
+LATAM,Furniture,Phones,1111.69,1049.27,Jane Smith
+North America,Office Supplies,Binders,4879.81,787.81,John Doe
+Africa,Furniture,Storage,1697.74,560.6,Li Wei
+LATAM,Office Supplies,Paper,926.95,-416.1,Emma Watson
+APAC,Technology,Chairs,3952.7,1436.98,Emma Watson
+North America,Technology,Chairs,3300.36,1097.43,John Doe
+North America,Technology,Paper,2501.01,85.64,Li Wei
+LATAM,Furniture,Storage,2785.71,1459.94,Emma Watson
+APAC,Technology,Storage,3601.62,703.76,John Doe
+APAC,Furniture,Binders,1157.7,664.85,Emma Watson
+Africa,Technology,Binders,4981.74,996.15,Amina Ali
+APAC,Technology,Copiers,4874.47,1123.54,Carlos Ruiz
+APAC,Furniture,Copiers,3258.62,812.96,Carlos Ruiz
+APAC,Furniture,Phones,1013.72,-243.81,Emma Watson
+Europe,Technology,Chairs,3407.54,176.54,Jane Smith
+Africa,Furniture,Binders,379.55,1356.17,Li Wei
+North America,Technology,Storage,172.65,-50.77,Li Wei
+LATAM,Furniture,Paper,1303.26,244.33,Li Wei
+North America,Office Supplies,Storage,2323.86,364.15,Amina Ali
+Africa,Office Supplies,Chairs,4344.0,378.81,Li Wei
+LATAM,Office Supplies,Copiers,3641.3,725.88,Carlos Ruiz
+Africa,Office Supplies,Storage,3718.68,1386.15,Amina Ali
+APAC,Office Supplies,Phones,2138.96,-18.61,John Doe
+LATAM,Technology,Chairs,1742.76,-257.0,Li Wei
+APAC,Office Supplies,Copiers,1867.77,-105.06,Li Wei
+North America,Office Supplies,Paper,4938.49,1273.85,John Doe
+North America,Office Supplies,Copiers,219.74,791.62,Li Wei
+LATAM,Office Supplies,Phones,4337.82,71.81,John Doe
+LATAM,Furniture,Chairs,2901.8,1131.89,Amina Ali
+Africa,Technology,Paper,2204.3,1222.74,Carlos Ruiz
+Africa,Office Supplies,Phones,3631.78,1193.03,John Doe
+APAC,Office Supplies,Copiers,2443.61,1337.85,Jane Smith
+LATAM,Office Supplies,Phones,4369.65,4.48,John Doe
+North America,Technology,Chairs,4505.5,1010.08,Li Wei
+Africa,Furniture,Binders,2120.17,421.08,Amina Ali
+Africa,Technology,Phones,1398.6,1184.0,Emma Watson
+North America,Furniture,Phones,2969.9,956.98,Amina Ali
+Africa,Office Supplies,Copiers,4563.57,1052.89,Emma Watson
+APAC,Office Supplies,Copiers,1069.1,812.32,John Doe
+LATAM,Technology,Paper,3122.37,-145.14,Carlos Ruiz
+North America,Technology,Copiers,3165.17,590.05,Jane Smith
+LATAM,Furniture,Storage,3670.9,1469.34,Amina Ali
+Africa,Furniture,Chairs,675.21,1374.78,Li Wei
+Africa,Technology,Chairs,3584.81,-413.65,Emma Watson
+North America,Furniture,Binders,4546.98,-170.37,Li Wei
+APAC,Technology,Binders,914.82,-236.54,Carlos Ruiz
+Europe,Furniture,Chairs,1202.97,951.96,Emma Watson
+North America,Technology,Binders,4857.55,1135.57,Amina Ali
+Europe,Technology,Paper,921.27,-72.98,John Doe
+Europe,Technology,Copiers,4274.84,511.71,Li Wei
+APAC,Furniture,Chairs,2471.54,1181.41,Carlos Ruiz
+Europe,Furniture,Binders,1251.21,965.6,Amina Ali
+Europe,Furniture,Chairs,4356.33,584.47,Amina Ali
+APAC,Technology,Storage,2237.62,680.7,Amina Ali
+Europe,Furniture,Phones,2583.79,516.72,Amina Ali
+Europe,Furniture,Copiers,1808.98,95.1,Emma Watson
+Europe,Technology,Chairs,2972.9,630.04,Amina Ali
+North America,Office Supplies,Phones,834.35,877.77,Li Wei
+North America,Technology,Binders,1967.59,1246.65,Carlos Ruiz
+North America,Furniture,Phones,4847.67,772.58,Emma Watson
+APAC,Technology,Copiers,1305.5,1022.24,Amina Ali
+Africa,Office Supplies,Chairs,3290.55,-179.86,Jane Smith
+Europe,Technology,Storage,1639.45,423.11,Jane Smith
+Europe,Furniture,Binders,3871.9,-481.34,Carlos Ruiz
+APAC,Office Supplies,Chairs,671.75,-6.64,John Doe
+Europe,Furniture,Copiers,4849.71,952.92,John Doe
+North America,Office Supplies,Binders,2279.87,1483.62,Emma Watson
+Africa,Office Supplies,Paper,1195.53,-301.64,Emma Watson
+LATAM,Technology,Phones,386.01,302.99,Emma Watson
+Europe,Technology,Copiers,865.39,1100.14,John Doe
+North America,Furniture,Paper,2608.47,-91.93,Jane Smith
+LATAM,Technology,Chairs,1698.28,610.17,John Doe
+Africa,Technology,Storage,4147.84,966.14,Li Wei
+LATAM,Office Supplies,Binders,2165.82,731.97,Amina Ali
+North America,Technology,Phones,1258.6,-123.95,Emma Watson
+LATAM,Office Supplies,Binders,3093.38,210.77,Jane Smith
+APAC,Office Supplies,Chairs,3539.75,1067.58,Carlos Ruiz
+LATAM,Office Supplies,Binders,851.87,608.45,Carlos Ruiz
+Europe,Furniture,Phones,854.74,-489.54,Amina Ali
+Europe,Furniture,Chairs,202.62,1021.98,Jane Smith
+APAC,Furniture,Binders,3687.28,-429.38,John Doe
+North America,Office Supplies,Storage,3325.75,991.47,John Doe
+Europe,Furniture,Copiers,2383.66,-95.04,Li Wei
+Africa,Furniture,Chairs,4223.97,1416.15,Li Wei
+Europe,Technology,Copiers,4032.24,235.88,John Doe
+Europe,Furniture,Chairs,2935.06,153.86,Carlos Ruiz
+North America,Furniture,Storage,4343.99,-202.22,Emma Watson
+LATAM,Office Supplies,Copiers,1045.09,111.21,Carlos Ruiz
+Europe,Office Supplies,Paper,577.36,1253.3,Li Wei
+APAC,Office Supplies,Phones,1363.35,1492.67,Amina Ali
+LATAM,Office Supplies,Paper,304.29,236.62,John Doe
+Africa,Office Supplies,Binders,2665.22,397.22,Li Wei
+North America,Office Supplies,Storage,4684.3,944.14,Li Wei
+Africa,Furniture,Paper,215.93,1272.39,Emma Watson
+LATAM,Office Supplies,Chairs,628.11,686.09,John Doe
+LATAM,Office Supplies,Binders,2271.95,283.05,Emma Watson
+LATAM,Technology,Binders,4670.7,325.24,John Doe
+Africa,Furniture,Paper,1594.46,891.24,Emma Watson
+LATAM,Furniture,Paper,2546.03,-493.56,Carlos Ruiz
+Africa,Furniture,Storage,227.03,739.18,Amina Ali
+LATAM,Office Supplies,Phones,758.75,210.99,Amina Ali
+APAC,Office Supplies,Paper,4933.42,1088.39,John Doe
+LATAM,Office Supplies,Paper,4826.29,-314.02,Jane Smith
+Africa,Technology,Copiers,44.6,676.4,Li Wei
+Europe,Office Supplies,Chairs,4760.02,461.95,Li Wei
+LATAM,Technology,Copiers,3202.82,784.65,John Doe
+Europe,Furniture,Copiers,4342.23,-370.29,Emma Watson
+APAC,Office Supplies,Binders,2284.6,659.97,Jane Smith
+North America,Technology,Phones,2587.67,622.97,Carlos Ruiz
+APAC,Technology,Chairs,2454.46,621.32,Emma Watson
+LATAM,Office Supplies,Storage,3340.98,706.98,Emma Watson
+Europe,Furniture,Storage,715.46,852.94,John Doe
+Europe,Furniture,Paper,169.27,1109.98,John Doe
+Africa,Furniture,Paper,1553.49,39.64,Li Wei
+Europe,Technology,Storage,3529.31,1150.1,John Doe
+Africa,Technology,Paper,1025.23,496.51,John Doe
+North America,Technology,Phones,3373.69,-345.88,John Doe
+LATAM,Technology,Copiers,4850.16,-382.9,Li Wei
+Africa,Furniture,Paper,487.63,168.48,Carlos Ruiz
+North America,Office Supplies,Binders,3369.56,1069.79,Carlos Ruiz
+Europe,Technology,Paper,2229.88,915.36,John Doe
+Europe,Technology,Chairs,4343.35,1077.23,Li Wei
+North America,Furniture,Phones,902.21,534.54,Carlos Ruiz
+Europe,Office Supplies,Chairs,3469.28,380.4,Emma Watson
+North America,Office Supplies,Chairs,4193.81,-205.09,Carlos Ruiz
+Africa,Furniture,Binders,4724.18,156.39,Carlos Ruiz
+Africa,Furniture,Phones,3422.58,368.04,Li Wei
+North America,Office Supplies,Phones,2495.93,-322.8,Emma Watson
+Africa,Technology,Phones,3096.88,-58.78,Li Wei
+Africa,Office Supplies,Phones,4347.15,696.45,John Doe
+Africa,Furniture,Phones,2861.64,971.33,Amina Ali
+APAC,Technology,Binders,171.33,1496.7,Carlos Ruiz
+LATAM,Technology,Paper,4656.12,1366.23,Amina Ali
+Europe,Furniture,Chairs,3453.84,785.13,Li Wei
+APAC,Furniture,Phones,3389.04,342.5,Li Wei
+Africa,Furniture,Paper,1094.06,772.35,Li Wei
+North America,Office Supplies,Paper,3301.25,1071.3,Amina Ali
+Africa,Office Supplies,Chairs,1981.44,-263.33,Li Wei
+LATAM,Technology,Binders,3263.14,319.81,John Doe
+Africa,Furniture,Storage,550.83,1179.6,Li Wei
+North America,Technology,Storage,3296.07,267.67,Jane Smith
+LATAM,Technology,Paper,4997.08,643.74,Amina Ali
+Africa,Technology,Copiers,260.1,675.54,Jane Smith
+LATAM,Technology,Copiers,4886.33,-131.05,Li Wei
+Europe,Furniture,Chairs,2046.4,224.47,John Doe
+Europe,Technology,Storage,4356.35,169.02,Carlos Ruiz
+Africa,Furniture,Paper,3916.28,-447.61,Emma Watson
+LATAM,Furniture,Binders,2843.74,-451.62,Emma Watson
+North America,Office Supplies,Storage,3697.48,1163.39,Li Wei
+Africa,Furniture,Paper,4395.01,46.14,John Doe
+Europe,Office Supplies,Paper,2032.62,536.16,Amina Ali
+Europe,Furniture,Phones,1648.63,97.45,Jane Smith
+Africa,Furniture,Binders,3344.62,1381.36,Jane Smith
+LATAM,Furniture,Phones,4043.07,18.59,Jane Smith
+Europe,Office Supplies,Chairs,3816.18,359.31,Amina Ali
+LATAM,Office Supplies,Phones,3993.11,1245.46,Emma Watson
+Europe,Technology,Phones,2189.2,1183.87,John Doe
+Europe,Office Supplies,Storage,4092.81,-127.8,Amina Ali
+APAC,Office Supplies,Copiers,618.64,1105.29,Jane Smith
+Europe,Office Supplies,Paper,2731.56,416.37,Li Wei
+North America,Office Supplies,Binders,48.68,465.94,Carlos Ruiz
+Africa,Technology,Phones,1636.44,-233.04,Amina Ali
+Africa,Office Supplies,Binders,1844.98,-338.8,Amina Ali
+LATAM,Furniture,Copiers,1992.94,955.88,John Doe
+Europe,Furniture,Copiers,3483.43,492.92,John Doe
+North America,Office Supplies,Phones,1955.02,373.7,Amina Ali
+LATAM,Office Supplies,Chairs,2254.49,959.02,Jane Smith
+APAC,Furniture,Phones,1202.97,1031.03,Carlos Ruiz
+LATAM,Furniture,Storage,1878.79,-182.18,John Doe
+LATAM,Technology,Paper,1151.8,720.45,Jane Smith
+Europe,Furniture,Chairs,384.52,-229.29,Li Wei
+APAC,Furniture,Phones,3025.17,1002.75,John Doe
+LATAM,Office Supplies,Binders,3347.7,813.91,Jane Smith
+North America,Furniture,Chairs,3105.06,1413.23,Jane Smith
+North America,Technology,Chairs,2328.2,-362.08,Carlos Ruiz
+Africa,Furniture,Phones,1911.33,-385.89,Carlos Ruiz
+APAC,Office Supplies,Chairs,4319.4,64.37,Li Wei
+APAC,Office Supplies,Binders,2605.03,23.41,Jane Smith
+Africa,Furniture,Copiers,2406.33,-6.04,Emma Watson
+LATAM,Office Supplies,Chairs,147.7,1312.51,Jane Smith
+APAC,Technology,Copiers,1719.41,-0.91,Carlos Ruiz
+North America,Technology,Binders,1913.37,43.9,Emma Watson
+North America,Furniture,Phones,2006.14,1018.8,John Doe
+Europe,Furniture,Paper,2909.26,399.48,John Doe
+APAC,Furniture,Chairs,2677.34,1053.42,Amina Ali
+LATAM,Office Supplies,Paper,3047.37,-369.27,Carlos Ruiz
+Africa,Technology,Binders,3829.12,475.14,Amina Ali
+Africa,Technology,Chairs,4068.67,-432.77,Emma Watson
+LATAM,Office Supplies,Copiers,3596.25,-374.69,Carlos Ruiz
+Europe,Technology,Storage,4778.51,1312.87,Li Wei
+Africa,Furniture,Paper,110.8,-221.51,Jane Smith
+APAC,Furniture,Chairs,994.97,564.84,Li Wei
+Europe,Furniture,Paper,57.66,322.19,Emma Watson
+APAC,Technology,Chairs,3244.42,194.69,Carlos Ruiz
+North America,Furniture,Phones,4492.19,1299.67,Emma Watson
+Europe,Office Supplies,Copiers,1232.54,-456.35,Jane Smith
+Africa,Office Supplies,Paper,4636.63,827.58,John Doe
+Europe,Technology,Storage,320.13,1426.79,John Doe
+Europe,Office Supplies,Storage,4673.49,620.34,Emma Watson
+Europe,Office Supplies,Binders,1771.08,1373.64,Amina Ali
+Europe,Technology,Chairs,525.08,-395.48,Carlos Ruiz
+APAC,Furniture,Paper,2439.64,337.59,Carlos Ruiz
+North America,Furniture,Binders,1298.75,20.32,John Doe
+LATAM,Furniture,Paper,1438.67,961.64,Li Wei
+Europe,Technology,Chairs,1550.3,1462.59,Jane Smith
+Africa,Office Supplies,Storage,4019.07,13.06,Li Wei
+Europe,Furniture,Phones,2705.02,808.35,Li Wei
+Africa,Furniture,Storage,1570.31,-103.8,Emma Watson
+APAC,Technology,Binders,3059.46,630.66,John Doe
+Africa,Furniture,Copiers,3586.43,427.86,John Doe
+LATAM,Technology,Phones,1377.67,1444.01,John Doe
+North America,Office Supplies,Binders,2079.47,717.05,Emma Watson
+Africa,Technology,Chairs,626.99,199.01,Amina Ali
+Africa,Technology,Phones,922.12,-271.81,Li Wei
+North America,Technology,Binders,3411.97,-197.51,Emma Watson
+LATAM,Technology,Chairs,923.56,-49.37,Carlos Ruiz
+Europe,Office Supplies,Storage,2635.31,1.93,Jane Smith
+Africa,Office Supplies,Copiers,3551.05,1201.23,Amina Ali
+North America,Furniture,Chairs,552.25,622.45,Carlos Ruiz
+APAC,Office Supplies,Paper,2845.21,546.78,Li Wei
+North America,Office Supplies,Chairs,1297.68,-270.46,John Doe
+APAC,Furniture,Chairs,4815.38,1220.28,Li Wei
+LATAM,Office Supplies,Copiers,2428.06,945.63,Emma Watson
+Europe,Technology,Paper,4033.84,-364.66,Jane Smith
+North America,Technology,Binders,2760.13,915.67,Emma Watson
+Africa,Furniture,Binders,236.19,587.08,Amina Ali
+LATAM,Furniture,Chairs,3173.09,-336.55,Amina Ali
+North America,Furniture,Paper,4757.99,416.6,Jane Smith
+Africa,Technology,Paper,3016.03,469.39,Carlos Ruiz
+North America,Office Supplies,Copiers,4099.56,-168.45,Carlos Ruiz
+APAC,Technology,Storage,4423.35,1391.4,Amina Ali
+North America,Furniture,Binders,1155.84,1199.95,Amina Ali
+North America,Office Supplies,Copiers,1075.98,838.04,John Doe
+North America,Office Supplies,Phones,3062.69,424.59,Carlos Ruiz
